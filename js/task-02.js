@@ -17,5 +17,5 @@ const ingredientEl = ingredients.map
     }
 )
     ingredientsContainer.append(...ingredientEl)
-console.log(ingredientEl);
+
 
