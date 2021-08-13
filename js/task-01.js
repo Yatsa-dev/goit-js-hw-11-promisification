@@ -1,4 +1,4 @@
-
+'use stricts'
 const delay = ms => {
     return new Promise(resovle => {
         resovle(ms)
